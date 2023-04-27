@@ -1,0 +1,49 @@
+Model,Price,Range_km/charge,Charging_time,Top_speed_kmph,Motor_type,Battery_type,Battery_capacity_KWH,Wheels_type,Tubesless_Tyre
+Ola S1,99999,128,,95,Mid Drive IPM,,3,Aluminium Alloy,Yes
+TVS iQube Electric,160000,100,2 Hour 50 Min - 80%,78,BLDC,Lithium Ion,3.04,Alloy,Yes
+Ather 450X,98183,146,5 hours 40 minutes,90,PMSM,Lithium-ion,3.7,Alloy,Yes
+Bajaj Chetak,122000,90,4 Hours,63,BLDC,Lithium Ion,0.0604,Alloy,Yes
+Ola S1 Pro,124000,181,,116,Mid Drive IPM,,4,Aluminium Alloy,Yes
+Simple One,109000,300,,105,,Lithium Ion,6.4,Alloy,Yes
+Vida V1,128000,165,65 minutes ( 0-80 ),80,PMSM,,3.94,Alloy,Yes
+Hero Electric Optima,67190,140,,45,,,0.0512,Alloy,
+Ampere Magnus EX,83900,121,,50,BLDC,Lithium Ion,0.06,Alloy,
+Bounce Infinity E1,64299,85,,65,BLDC,Lithium Ion,1.9,Alloy,Yes
+Okinawa PraisePro,99645,88,,58,BLDC,Lithium Ion,2,Alloy,Yes
+Kinetic Green Zoom,75100,100,,40,BLDC,Lithium Ion,0.06,ALLOY,Yes
+Ampere Primus,109000,107,,77,,LFP,3,Alloy,Yes
+Kinetic Green Zing,71500,100,,45,BLDC,Lithium Ion,0.06,ALLOY,Yes
+River Indie,125000,120,,90,Mid-Drive PMSM,Lithium-Ion,4,Alloy Wheels,
+Okinawa R30,61998,60,,25,BLDC,Lithium-Ion,1.25,Alloy,Yes
+Okinawa iPraise+,145000,139,,58,BLDC,Lithium Ion,3.3,Alloy,Yes
+Hero Electric NYX,73590,100,,42,,Lithium-Ion,0.048,Alloy,No
+AMO Electric Jaunty-3W,62964,75,6 Hours,25,Brushless DC,VRLA,0.06,Alloy,Yes
+Ujaas eZy,31880,60,,,,Lead Acid,0.048,Alloy,Yes
+Ozotec Flio,113000,,,,,,,Alloy,Yes
+Gravton Quanta,99000,320,,70,,Lithium Ion,6,Alloy,Yes
+Hero Electric Photon,86390,60,,45,,Li-ion,0.072,Steel,No
+Avon E Plus,25000,50,,24,BLDC,VRLA,0.048,Alloy,No
+Komaki XGT KM,42500,150,,,,Lithium-Ion,,,Yes
+Avon E Lite,28000,50,,24,BLDC,VRLA,0.048,Alloy,No
+Lohia Oma Star,41444,60,,25,BLDC,VRLA,0.048,Alloy,No
+Avon E Scoot,45000,65,,24,BLDC,VRLA,0.048,Alloy,Yes
+Kinetic Green Flex,118000,120,3 Hours,72,,Lithium-Ion,3.1,Alloy,Yes
+Avon E Star,60000,65,,50,BLDC,Lead Acid,0.048,Alloy,No
+Avon E Mate,45000,65,,18,BLDC,VRLA,0.048,Alloy,No
+Lohia Oma Star Li,51750,60,,25,BLDC,Lithium Ion,20,Alloy,Yes
+Okinawa Ridge,69783,84,,45,BLDC,Lithium Ion,1.75,Alloy,Yes
+BattRE Electric LoEV,68900,60,,,BLDC,Lithium Ferro Phosphate,3.1,Iron Rims,Yes
+Joy e-bike Gen Next Nanu,77400,90,,46,Brushless DC,Lithium Ion,0.06,Alloy,Yes
+Joy e-bike Wolf,79900,90,,46,Brushless DC,Lithium Ion,0.06,Alloy,Yes
+Joy e-bike Glob,77400,60,,25,Brushless DC,Lithium-Ion,0.06,Alloy,Yes
+Tunwal Sports 63 Alpha 48V,54943,70,,,BLDC,Lithium Ion,0.048,Alloy,Yes
+Tunwal Sport 63 Mini,49990,70,,,BLDC,Lithium Ion,0.048,Alloy,Yes
+Tunwal Sport 63 Mid,71990,110,,,BLDC,Lithium Ion,0.06,Alloy,Yes
+Tunwal Mini Lithino,54990,70,,,BLDC,Lithium Ion,0.048,Alloy,Yes
+Tunwal Lithino 2.0,71990,85,,,BLDC,Lithium Ion,0.06,Alloy,Yes
+Tunwal Elektrika 60,65040,120,,,BLDC,Lithium Ion,0.06,Alloy,Yes
+BattRE Electric IOT,80900,85,,110,BLDC,Lithium Ion,0.048,Alloy,Yes
+Ujaas eGo Li,50880,75,,,,Lithium Ion,0.06,Alloy,Yes
+Kabira Mobility Intercity Neo,57000,110,,24,BLDC,Lithium Ion,0.06,Alloy,Yes
+Kabira Mobility Kollegio Plus,48000,110,,24,BLDC,Lithium Ion,0.06,Alloy,Yes
+Kabira Mobility Aetos 100,55000,110,,24,BLDC,Lithium Ion,0.06,Alloy,Yes
